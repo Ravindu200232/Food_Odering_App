@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.food-search{
+    background-image: url(3d-rendering-delivery-service-by-motorcycle-logistic-of-service-food-delivery-moto-scooter-driver-with-brown-box-photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
